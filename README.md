@@ -17,7 +17,7 @@ Our client requested a review of a dataset to ensure successful charitable donat
 The number of neurons, layers, and activation functions selected for the neural network model:
 - Neural network included two hidden layers. The first layer contained 80 neurons, the second contained 30, in addition to an output layer. The first and second hidden layer have the "relu" activation function and the activation function for the output layer is "sigmoid."
 
-<img src=https://github.com/jratliff1215/Neural_Network_Charity_Analysis/blob/main/Resources/ml1.PNG" width="500" height="200">
+<img src=https://github.com/jratliff1215/Neural_Network_Charity_Analysis/blob/main/Resources/ml1.PNG" width="500" height="400">
                                                                                                                                
 Was the model able to achieve the target model performance?
 - The model was not able to reach the target 75%. The accuracy for the model was 69%.
