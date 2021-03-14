@@ -22,26 +22,26 @@ The number of neurons, layers, and activation functions selected for the neural 
 Was the model able to achieve the target model performance?
 - The model was not able to reach the target 75%. The accuracy for the model was 69%.
 
-<img src="https://github.com/jratliff1215/Neural_Network_Charity_Analysis/blob/main/Resources/ml2.PNG" width="900" height="350">
+<img src="https://github.com/jratliff1215/Neural_Network_Charity_Analysis/blob/main/Resources/ml2.PNG" width="400" height="100">
                                                                                                                                
 The steps taken to try and increase model performance
 
 - Attempt 1: Removed additional feature, that is the 'USE_CASE' column. Rest of the model components stayed the same, however model accuracy went down to 63%. 
 
 
-<img src="https://github.com/jratliff1215/Neural_Network_Charity_Analysis/blob/main/Resources/ml3.PNG" width="300" height="100">
+<img src="https://github.com/jratliff1215/Neural_Network_Charity_Analysis/blob/main/Resources/ml3.PNG" width="900" height="100">
 
 <img src="https://github.com/jratliff1215/Neural_Network_Charity_Analysis/blob/main/Resources/ml4.PNG" width="1000" height="200">
 
 -  Attempt 2: Adding Additional neurons to hidden layers and additional hidden layers are added. The accuracy went down again, this time it was 53%.
 
-<img src="https://github.com/jratliff1215/Neural_Network_Charity_Analysis/blob/main/Resources/ml5.PNG" width="1000" height="200">
+<img src="https://github.com/jratliff1215/Neural_Network_Charity_Analysis/blob/main/Resources/ml5.PNG" width="800" height="400">
 
 <img src="https://github.com/jratliff1215/Neural_Network_Charity_Analysis/blob/main/Resources/ml6.PNG" width="1000" height="200">
 
 - Attempt 3: Changing activation function of output layer from "sigmoid" to "tanh." The accuracy of the model went down even more to 50%.
 
-<img src="https://github.com/jratliff1215/Neural_Network_Charity_Analysis/blob/main/Resources/ml7.PNG" width="1000" height="200">
+<img src="https://github.com/jratliff1215/Neural_Network_Charity_Analysis/blob/main/Resources/ml7.PNG" width="800" height="400">
 
 <img src="https://github.com/jratliff1215/Neural_Network_Charity_Analysis/blob/main/Resources/ml8.PNG" width="1000" height="200">
 
